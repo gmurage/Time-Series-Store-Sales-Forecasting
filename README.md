@@ -1,6 +1,6 @@
 # Time-Series-Store-Sales-Forecasting
 Time series forecasting involves predicting future values based on past data trends for example in predicting store sales. Examples of models: Error, Trend Seasonality (ETS), Autoregressive Integrated Moving Average (ARIMA) and Seasonal ARIMA(SARIMA). ARIMA adopts better to non-seasonal data while ETS is the model of choice for data that shows robust and consistent seasonal patterns ( Gao, 2025).
-This was research on predictive analysis carried out on Time Series as a Kaggle.com Competition. The assignemnt was in forecasting a store’s sales using Error, Trend, Season (ETS), and Autoregressive Integrated Moving Average (ARIMA)
+This was research on predictive analysis carried out on Time Series as a Kaggle.com Competition. The assignment was in forecasting a store’s sales using Error, Trend, Season (ETS), and Autoregressive Integrated Moving Average (ARIMA)
 
 Results for the ETS Store Sales Forecasting Model(Time Series) 
 RMSLE Score (0.0981). This indicates the ETS model has an average logarithmic error of about 9.81%. In practical terms, this means that the forecasts are typically within ±10% of actual values. For retail sales forecasting, an RMSLE < 0.1 is generally considered good performance.
